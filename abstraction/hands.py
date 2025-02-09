@@ -21,6 +21,7 @@ class HandAbstraction:
 
     def __init__(self):
         """TODO: Initialize hand categories."""
+        # hi
         pass
 
     def sample_starting_hand(self):
